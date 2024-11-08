@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+    object-fit: cover;
+    
+
+}
+
+.imageContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 33px;
+    margin-top: 40px;
+    
+
+
+    
+}
+.seaser:hover{
+    cursor: pointer;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+    
+}
+.Choice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bold ;
+}
+.result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: inline;
+    text-align: center;
+    border-radius: 30px;
+    
+
+}
+body{
+   
+    background-color: aquamarine;
+    
+}
+
